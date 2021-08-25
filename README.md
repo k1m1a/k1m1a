@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @k1m1a
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML & CSS
+- 
